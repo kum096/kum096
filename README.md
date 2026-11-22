@@ -1,85 +1,58 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,45:14213D,100:2563EB&height=210&section=header&text=DevKnb&fontSize=56&fontColor=F4F7FB&fontAlignY=36&desc=ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20EXPLORER&descAlignY=59&descSize=14" alt="DevKnb — Engineer, Builder, Explorer" />
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=7CB8FF&center=true&vCenter=true&width=760&lines=Software+%26+AI+%7C+Robotics+%26+Embedded+Systems;Exploring+the+intersection+of+software+and+hardware;Learning+deeply.+Building+intentionally." alt="Animated introduction" />
-</a>
-
-[![GitHub](https://img.shields.io/badge/GitHub-kum096-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/kum096)
-
-</div>
-
----
-
-## About
-
-I'm DevKnb — an interdisciplinary technology builder exploring how **software, artificial intelligence and physical systems** come together.
-
-My interests span software engineering, AI and data science, robotics, embedded systems, electronics, CAD and space technology. I enjoy learning across disciplines, turning ideas into experiments, and documenting the process through practical projects.
-
-I'm building this GitHub as an evolving engineering workspace: a place for finished work, prototypes, experiments, technical notes and the lessons behind them.
-
-## Areas of exploration
-
-| Area | What I'm exploring |
-|---|---|
-| **Software engineering** | Web and mobile applications, APIs and product development |
-| **AI & data science** | Machine learning, deep learning, computer vision and data workflows |
-| **Robotics & automation** | Robotics foundations, intelligent systems and hands-on builds |
-| **Embedded systems & electronics** | Altium Designer, PCB design, microcontrollers and hardware development |
-| **Space technology** | An ambitious AI-enabled CubeSat concept and related systems research |
-| **CAD & product design** | Fusion 360, 3D modelling and engineering design |
-
-## Current learning & build roadmap
-
-These are active goals and learning tracks — not claims that every item is already completed.
-
-- **Altium Global Scholarship** — learning Altium Designer and developing my PCB design skills.
-- **AI CubeSat concept** — exploring the design of an AI-enabled CubeSat as a longer-term engineering project.
-- **Robotics** — working toward completing my Coursera robotics course and applying the concepts in projects.
-- **WorldQuant University** — progressing through learning labs in data science, deep learning and computer vision.
-- **Microsoft DP-700** — applied for the exam voucher; awaiting the outcome.
-- **Microsoft Student Ambassador** — working toward this opportunity.
-
-## Selected public work
-
-A few public repositories to explore:
-
-- [Lingua](https://github.com/kum096/Lingua) — application project.
-- [Unimatrix](https://github.com/kum096/Unimatrix) — software project.
-- [G-CM](https://github.com/kum096/G-CM) — public release repository for GuardianCM.
-
-More projects, prototypes and technical write-ups will be added as they become ready to share.
-
-## Technologies
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,55:111C33,100:244B86&height=190&section=header&text=DevKnb&fontSize=58&fontColor=F4F7FB&fontAlignY=39&desc=BUILD%20%E2%80%A2%20EXPLORE%20%E2%80%A2%20ENGINEER&descAlignY=63&descSize=13&descColor=A9C8F2" alt="DevKnb — Build, Explore, Engineer" />
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt="Expo" />
+  <strong>Curious by nature. Driven to build.</strong><br/>
+  Exploring ideas, engineering solutions, and turning concepts into things that work.
 </p>
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kum096&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kum096&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used languages" />
+<a href="https://github.com/kum096?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="Explore my work" />
+</a>
+&nbsp;
+<a href="https://github.com/kum096">
+  <img src="https://img.shields.io/badge/CONNECT-111827?style=for-the-badge&logo=github&logoColor=7CB8FF" alt="GitHub profile" />
+</a>
 
 </div>
 
-## Contribution graph
+---
+
+## Selected work
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kum096/kum096/output/github-snake-dark.svg" alt="Animated GitHub contribution snake — generated by GitHub Actions" />
+<a href="https://github.com/kum096/Lingua">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kum096&repo=Lingua&hide_border=true&bg_color=0B1220&title_color=8AB4F8&text_color=C9D4E5&icon_color=8B9CF6" alt="Lingua repository" />
+</a>
+<a href="https://github.com/kum096/Unimatrix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kum096&repo=Unimatrix&hide_border=true&bg_color=0B1220&title_color=8AB4F8&text_color=C9D4E5&icon_color=8B9CF6" alt="Unimatrix repository" />
+</a>
+<a href="https://github.com/kum096/G-CM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kum096&repo=G-CM&hide_border=true&bg_color=0B1220&title_color=8AB4F8&text_color=C9D4E5&icon_color=8B9CF6" alt="G-CM repository" />
+</a>
+
+</div>
+
+## The approach
+
+I enjoy moving between disciplines, asking better questions, and learning by making. This space is a living archive of the work: projects, experiments, ideas, and useful discoveries.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kum096&show_icons=true&hide_border=true&rank_icon=github&bg_color=070B14&title_color=8AB4F8&icon_color=9B8CFF&text_color=C9D4E5&include_all_commits=true" height="165" alt="GitHub statistics" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kum096&bg_color=070B14&color=8AB4F8&line=647FE8&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Curiosity across disciplines. Engineering through experimentation.</sub>
+
+<sub>Stay curious. Build with intent. Explore beyond the obvious.</sub>
+
 </div>
