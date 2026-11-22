@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:172554,100:2563EB&height=190&section=header&text=DevKnb&fontSize=52&fontColor=EAF2FF&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20useful%20digital%20experiences&descAlignY=60&descSize=14" alt="DevKnb profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,45:14213D,100:2563EB&height=210&section=header&text=DevKnb&fontSize=56&fontColor=F4F7FB&fontAlignY=36&desc=ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20EXPLORER&descAlignY=59&descSize=14" alt="DevKnb — Engineer, Builder, Explorer" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software;Exploring+web+and+mobile+development;Building+with+curiosity+and+purpose" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=7CB8FF&center=true&vCenter=true&width=760&lines=Software+%26+AI+%7C+Robotics+%26+Embedded+Systems;Exploring+the+intersection+of+software+and+hardware;Learning+deeply.+Building+intentionally." alt="Animated introduction" />
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-kum096-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/kum096)
@@ -14,11 +14,45 @@
 
 ## About
 
-I'm DevKnb, a software developer interested in building practical digital products and continuously improving my craft.
+I'm DevKnb — an interdisciplinary technology builder exploring how **software, artificial intelligence and physical systems** come together.
 
-I enjoy exploring ideas, learning new tools, and turning problems into thoughtful software experiences.
+My interests span software engineering, AI and data science, robotics, embedded systems, electronics, CAD and space technology. I enjoy learning across disciplines, turning ideas into experiments, and documenting the process through practical projects.
 
-## Tech I work with
+I'm building this GitHub as an evolving engineering workspace: a place for finished work, prototypes, experiments, technical notes and the lessons behind them.
+
+## Areas of exploration
+
+| Area | What I'm exploring |
+|---|---|
+| **Software engineering** | Web and mobile applications, APIs and product development |
+| **AI & data science** | Machine learning, deep learning, computer vision and data workflows |
+| **Robotics & automation** | Robotics foundations, intelligent systems and hands-on builds |
+| **Embedded systems & electronics** | Altium Designer, PCB design, microcontrollers and hardware development |
+| **Space technology** | An ambitious AI-enabled CubeSat concept and related systems research |
+| **CAD & product design** | Fusion 360, 3D modelling and engineering design |
+
+## Current learning & build roadmap
+
+These are active goals and learning tracks — not claims that every item is already completed.
+
+- **Altium Global Scholarship** — learning Altium Designer and developing my PCB design skills.
+- **AI CubeSat concept** — exploring the design of an AI-enabled CubeSat as a longer-term engineering project.
+- **Robotics** — working toward completing my Coursera robotics course and applying the concepts in projects.
+- **WorldQuant University** — progressing through learning labs in data science, deep learning and computer vision.
+- **Microsoft DP-700** — applied for the exam voucher; awaiting the outcome.
+- **Microsoft Student Ambassador** — working toward this opportunity.
+
+## Selected public work
+
+A few public repositories to explore:
+
+- [Lingua](https://github.com/kum096/Lingua) — application project.
+- [Unimatrix](https://github.com/kum096/Unimatrix) — software project.
+- [G-CM](https://github.com/kum096/G-CM) — public release repository for GuardianCM.
+
+More projects, prototypes and technical write-ups will be added as they become ready to share.
+
+## Technologies
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -31,7 +65,7 @@ I enjoy exploring ideas, learning new tools, and turning problems into thoughtfu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kum096&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=C9D1D9&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kum096&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kum096&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
@@ -40,16 +74,12 @@ I enjoy exploring ideas, learning new tools, and turning problems into thoughtfu
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kum096/kum096/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/kum096/kum096/output/github-snake-dark.svg" alt="Animated GitHub contribution snake — generated by GitHub Actions" />
 
 </div>
-
-## Find me
-
-- GitHub: [@kum096](https://github.com/kum096)
 
 ---
 
 <div align="center">
-  <sub>Designed with focus. Built with curiosity.</sub>
+  <sub>Curiosity across disciplines. Engineering through experimentation.</sub>
 </div>
